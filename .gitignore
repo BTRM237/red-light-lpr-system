@@ -1,0 +1,23 @@
+# Bỏ qua các file output
+output/
+# Bỏ qua upload
+uploads/
+# Python cache & build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+.venv/
+venv/
+
+# Output folders
+output/
+runs/
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
